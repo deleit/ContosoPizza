@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dlmac\\source\\repos\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj": {}
+    "C:\\Users\\dlmac\\source\\repos\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dlmac\\source\\repos\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj": {
+    "C:\\Users\\dlmac\\source\\repos\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dlmac\\source\\repos\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "C:\\Users\\dlmac\\source\\repos\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "C:\\Users\\dlmac\\source\\repos\\mslearn-persist-data-ef-core\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "C:\\Users\\dlmac\\source\\repos\\ContosoPizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\dlmac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dlmac\\source\\repos\\mslearn-persist-data-ef-core\\ContosoPizza\\obj\\",
+        "outputPath": "C:\\Users\\dlmac\\source\\repos\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
